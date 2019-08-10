@@ -1,7 +1,7 @@
 # Códigos do Curso Introdução à Ciência da Computação com Python Parte 1 e Parte 2
 > Python 3
 
-## Parte 1:check:
+## Parte 1
 
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 1. Apresentação e Introdução ao Curso :heavy_check_mark:
